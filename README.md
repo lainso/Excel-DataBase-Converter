@@ -5,9 +5,8 @@ The program is based on Python, it uses the sqlalchemy, MySQLdb, pandas and PySi
 This the first time I try to upload a programs, if this helps you and you like it, click the stars and I will appreciate it.
 
 # How to use:
-If you need an English version, please download 'main-en.ui', rename it as 'main.ui' and replace the original file.
 1.Download the releases pack and unzip it, find the 'Converter.exe' and run it directly. You can run it without installing any other software in this way.
-2.Download all the files and open it in a IDE like Pycharm, run the 'main.py' so that you can see the window out.
+2.Download all the files and open it in a IDE like Pycharm, run the 'main.py' so that you can see the window out.If you need an English version, please download 'main-en.ui', rename it as 'main.ui' and replace the original file.
 
 # Excel 数据库 导入导出工具
 这是一个用于导入/导出 Excel 文件的程序
